@@ -232,7 +232,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "ev.kicad_pro",
+    "filename": "EVBuild.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -309,7 +309,7 @@
   },
   "sheets": [
     [
-      "0f907b49-1db3-4eeb-b9e3-38f13c06b21d",
+      "2997cb29-a416-41db-a9e8-1a576f951325",
       ""
     ]
   ],
